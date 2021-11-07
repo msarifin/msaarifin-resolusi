@@ -2,3 +2,4 @@ MSARIFIN RESOLUSI
 -Konsisten belajar min 2 jam perhari
 -1 minggu mendalami commant line,git, dan github
 -membiasakan diri menggunakan commant line, git dan github
+-Menambah relasi/teman untuk belajar bareng
